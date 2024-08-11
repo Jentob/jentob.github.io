@@ -1,0 +1,19 @@
+---
+interface Props {
+    title: string;
+    href: string;
+    active?: boolean;
+}
+
+const { href, title, active = false } = Astro.props;
+
+export type { Props as NavbarElementProps };
+---
+
+<li>
+    <a
+        class="block p-1 font-main text-lg font-semibold"
+        class:list={[active && "underline decoration-accent decoration-4"]}
+        {href}>{title}</a
+    >
+</li>

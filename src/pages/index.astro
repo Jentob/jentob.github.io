@@ -1,0 +1,23 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { Content as AboutMe } from "../components/md/about-me.md";
+---
+
+<Layout title="Tobias Jensen" navActiveUrl="/" navShowLogo={false}>
+    <div slot="header" class="mx-auto max-w-screen-md px-4 py-32">
+        <h1 class="mb-4 font-heading text-6xl font-bold tracking-wide">
+            Tobias Jensen
+        </h1>
+        <p class="font-main text-3xl">Løsningsfokusert programvareutvikler</p>
+    </div>
+    <main
+        class="from-accent from-50% to-accent2 to-50% before:block before:h-16 before:bg-gradient-to-b before:content-['']"
+    >
+        <article
+            class="mx-auto max-w-screen-md px-4 py-16 prose-p:mt-4 prose-p:text-xl prose-a:underline [&:nth-child(2)]:prose-p:mt-0"
+        >
+            <h2 class="mb-2 font-heading text-3xl font-bold">Om meg</h2>
+            <AboutMe />
+        </article>
+    </main>
+</Layout>
