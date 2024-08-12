@@ -51,7 +51,7 @@ Gjorde frivillig arbeid for NITO Studentene. Deltok i møter. Planla og gjennomf
 -   **Språk:** Norsk og engelsk flytene, muntlig og skriftlig
 
 -   **Programeringspråk og teknologier jeg har brukt:**
-    -   Linux (Fedora, Ubuntu Server, Proxmox, OpenSUSE)
+    -   Linux (Fedora, OpenSUSE, Ubuntu Server)
     -   Git, GitHub
     -   HTML
     -   CSS, Tailwind
@@ -63,3 +63,4 @@ Gjorde frivillig arbeid for NITO Studentene. Deltok i møter. Planla og gjennomf
     -   C#, .NET
     -   PHP
     -   Apache HTTP Server
+    -   Proxmox VE
