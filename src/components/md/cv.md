@@ -2,19 +2,19 @@
 
 ## Personalia
 
--   **Navn:** Tobias Jensen
+- **Navn:** Tobias Jensen
 
--   **E-post:** <tobias@toje.dev>
+- **E-post:** <tobias@toje.dev>
 
--   **Telefon:** (+47) 450 19 484
+- **Telefon:** +47 450 19 484
 
--   **Fødselsdag:** 26.01.2003
+- **Fødselsdag:** 26.01.2003
 
--   **Lenker:**
+- **Lenker:**
 
-    -   [GitHub](https://github.com/Jentob)
+  - [GitHub](https://github.com/Jentob)
 
-    -   [LinkedIn](https://linkedin.com/in/jensen-tobias)
+  - [LinkedIn](https://linkedin.com/in/jensen-tobias)
 
 ## Utdanning
 
@@ -48,19 +48,20 @@ Gjorde frivillig arbeid for NITO Studentene. Deltok i møter. Planla og gjennomf
 
 ## Annet
 
--   **Språk:** Norsk og engelsk flytene, muntlig og skriftlig
+- **Språk:** Norsk og engelsk flytene, muntlig og skriftlig
 
--   **Programeringspråk og teknologier jeg har brukt:**
-    -   Linux (Fedora, OpenSUSE, Ubuntu Server)
-    -   Git, GitHub
-    -   HTML
-    -   CSS, Tailwind
-    -   Javascript, Typescript, Node, Astro
-    -   Python, Poetry, Flask
-    -   SQL, MySQL, SQLite
-    -   Java
-    -   C
-    -   C#, .NET
-    -   PHP
-    -   Apache HTTP Server
-    -   Proxmox VE
+- **Programeringspråk og teknologier jeg har brukt:**
+  - Linux (Fedora, OpenSUSE, Ubuntu Server)
+  - Git, GitHub
+  - HTML
+  - CSS, Tailwind
+  - Javascript, Typescript, Node, Astro
+  - Python, Poetry, Flask
+  - SQL, MySQL, SQLite
+  - Java
+  - C
+  - C#, .NET
+  - PHP
+  - Apache HTTP Server
+  - Proxmox VE
+  - Docker
