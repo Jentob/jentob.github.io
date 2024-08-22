@@ -1,3 +1,7 @@
+*.md
+
 .github/workflows/
+
+public/fonts/
 
 package-lock.json
