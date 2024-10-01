@@ -20,7 +20,7 @@
 
 ### (2022 - nå) Høgskolen i Østfold
 
-**120 studiopoeng mot en [bachelor i informatikk - design og utvikling av IT-systemer](https://www.hiof.no/studier/programmer/itbdes-bachelorstudium-i-informatikk-design-og-utvikling-av-itsystemer/studieplaner/h2022.html) med fordypning i datasikkerhet**
+**120 studiepoeng mot en [bachelor i informatikk - design og utvikling av IT-systemer](https://www.hiof.no/studier/programmer/itbdes-bachelorstudium-i-informatikk-design-og-utvikling-av-itsystemer/studieplaner/h2022.html) med fordypning i datasikkerhet**
 
 Webutvikling, Programmering, Databasesystemer, Datasikkerhet i utvikling og drift, Testing av programvare, Diskret matematikk, Algoritmer og datastrukturer, Design av digitale produkter, Operativsystemer, Design av rammeverk
 
